@@ -1,0 +1,4 @@
+# ignor file
+web/ignore.txt
+# ignor types
+web/*.txt
